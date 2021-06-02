@@ -10,6 +10,9 @@ e locations avec la dur&eacute;e le cout...,
 ; volant&eacute;.
 <br />Il veille &agrave; la synchronisation des donn&eacute;e
 s.
+
+Ce programme est une age
+
 Interface Graphique :
 =============
 
