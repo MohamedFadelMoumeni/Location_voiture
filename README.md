@@ -1,7 +1,4 @@
-Gestion location voiture------------------------
-Url     : http://codes-sources.commentcamarche.net/source/40224-gestion-location-voitureAuteur  : MrCapoDate    : 07/08/2013
-Licence :
-=========
+
 
 Ce document intitulé « Gestion location voiture » issu de CommentCaMarche
 (codes-sources.commentcamarche.net) est mis à disposition sous les termes de
