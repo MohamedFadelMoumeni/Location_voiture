@@ -11,7 +11,6 @@ e locations avec la dur&eacute;e le cout...,
 <br />Il veille &agrave; la synchronisation des donn&eacute;e
 s.
 
-Ce programme est une age
 
 Interface Graphique :
 =============
