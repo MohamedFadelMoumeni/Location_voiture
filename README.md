@@ -13,9 +13,9 @@ s.
 Lest Taches du Projet :
 =============
 Vous pouvez louer plusieurs voitures votre donnés personnelles seront enregistrés sur un fichier .TXT.</br>
-Vous pouvez modifier/supprimer votre contart .
-Vous pouvez également ajouter/modifier/supprimer les clients ansi que les voitures 
-Vous pouvez chercher un client/voiture et consuller ses informations 
+Vous pouvez modifier/supprimer votre contart .</br>
+Vous pouvez également ajouter/modifier/supprimer les clients ansi que les voitures </br>
+Vous pouvez chercher un client/voiture et consuller ses informations </br>
 
 
 Interface Graphique :
