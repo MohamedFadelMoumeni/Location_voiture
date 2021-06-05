@@ -12,7 +12,7 @@ s.
 
 Lest Taches du Projet :
 =============
-Vous pouvez louer plusieurs voitures votre donnés personnelles seront enregistrés sur un fichier .TXT.`\n`
+Vous pouvez louer plusieurs voitures votre donnés personnelles seront enregistrés sur un fichier .TXT.\n
 Vous pouvez modifier/supprimer votre contart .
 Vous pouvez également ajouter/modifier/supprimer les clients ansi que les voitures 
 Vous pouvez chercher un client/voiture et consuller ses informations 
